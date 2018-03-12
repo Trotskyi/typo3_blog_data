@@ -1,3 +1,1 @@
-<?php
-
-require __DIR__ . '/typo3/sysext/frontend/Resources/Private/Php/frontend.php';
+typo3_src/index.php
